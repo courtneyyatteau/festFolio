@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/festFolio/static/css/main.073c9b0a.css",
+    "main.js": "/festFolio/static/js/main.cd4dcb1f.js",
+    "static/js/377.faa146ad.chunk.js": "/festFolio/static/js/377.faa146ad.chunk.js",
+    "service-worker.js": "/festFolio/service-worker.js",
+    "static/media/logo.svg": "/festFolio/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/festFolio/index.html",
+    "main.073c9b0a.css.map": "/festFolio/static/css/main.073c9b0a.css.map",
+    "main.cd4dcb1f.js.map": "/festFolio/static/js/main.cd4dcb1f.js.map",
+    "377.faa146ad.chunk.js.map": "/festFolio/static/js/377.faa146ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cd4dcb1f.js"
+  ]
+}
